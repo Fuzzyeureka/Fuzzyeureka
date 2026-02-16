@@ -1,8 +1,8 @@
 # 💫 About Me:
-- 🔭 I’m currently working on: The Empty Space (Object Show)
-- 🌱 I’m currently learning: Java
-- 🤔 I’m looking for help with: The Empty Space (Object Show)
-- 💬 Ask me about: The Empty Space (Object Show)
+- 🔭 I’m currently working on: TBA
+- 🌱 I’m currently learning: TBA
+- 🤔 I’m looking for help with: TBA
+- 💬 Ask me about: TBA
 - 📫 How to reach me: Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like nuclear reactors
